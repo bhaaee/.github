@@ -5,6 +5,10 @@ bhaee is a start-up multinational technology company that structurally focuses o
 </p>
 <br/>
 
+<p>
+  🏳️‍🌈 | 🏳️‍⚧️ | ❤️🧡🤍💗💜 | ⚤⚤
+</p>
+
 📊 **this weeks time check:**
 <!--START_SECTION:waka-->
 
