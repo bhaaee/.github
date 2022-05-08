@@ -1,21 +1,18 @@
-## Hi there 👋
+## Welcome to bhaee 👋
 
+<p>
+bhaee is a start-up multinational technology company that structurally focuses on software’s , e-commerce, API’S, artificial intelligence, freelancing technological support , e-learning and pcbs .
+</p>
+<br/>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhaaee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-📊 **this week i spent my time on:**
+📊 **this weeks time check:**
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 11 mins   ████████████▓░░░░░░░░░░░░   51.09 %
+JavaScript   4 hrs 11 mins   ████████████▓░░░░░░░░░░░░   51.09 %
+kotlin       22 hrs 11 mins   ████████████▓░░░░░░░░░░░░   80.09 %
+Java         9 hrs 11 mins   ████████████▓░░░░░░░░░░░░   76.01 %
+python       2 hrs 11 mins   ████████████▓░░░░░░░░░░░░   51.09 %
 TypeScript   5 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
 HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
@@ -26,6 +23,3 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 📈 bhaee github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaaee&show_icons=true&theme=gotham" alt="bhaee" />
-
