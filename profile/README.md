@@ -24,3 +24,8 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+📈 bhaee github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaaee&show_icons=true&theme=gotham" alt="bhaee" />
+
